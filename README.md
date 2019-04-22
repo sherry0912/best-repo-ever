@@ -1,2 +1,2 @@
 # best-repo-ever
-be changed by branch1
+be changed by new branch 2
